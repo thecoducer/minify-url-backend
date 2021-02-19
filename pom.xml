@@ -15,7 +15,7 @@
 	<name>minifyUrl</name>
 	<description>URL Shortener Backend</description>
 	<properties>
-		<java.version>15</java.version>
+		<!--<java.version>15</java.version>-->
 	</properties>
 	<dependencies>
 		<dependency>
