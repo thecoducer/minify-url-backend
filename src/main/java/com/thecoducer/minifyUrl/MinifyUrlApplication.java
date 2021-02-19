@@ -16,7 +16,7 @@ public class MinifyUrlApplication {
 
 	@GetMapping("/hello")
 	public String sayHello(@RequestParam(value = "myName", defaultValue = "World") String name) {
-		return String.format("hello %s!", name);
+		return String.format("hello hello %s!", name);
 	}
 
 }
